@@ -1,41 +1,46 @@
-# Mahdia Ahmadi
+# 👋 Hi, I'm Mahdia Ahmadi!
 
-> [Contact Me](mailto:mahdiaahmadi345@gmail.com)
+📍 Bragança, Portugal | 📧 mahdiaahmadi345@gmail.com | 🔗 [LinkedIn](www.linkedin.com/in/mahdiaahmadi)
 
-Curious about Data Science and AI:
+## 🚀 About Me
 
-→ _Participant at MIT Emergining Talent Program_
+I'm a **Master’s student in Computer Engineering** with a passion for **AI, Data Science, and Full-Stack Development**. I have experience in **React.js, Node.js, MongoDB, Python, and Machine Learning**. I love building AI-driven applications, data analysis and contributing to open-source projects.
 
-Work in Web Development Projects:
+## 🛠 Technical Skills
 
-→ [_Scrimba Student_](scrimba.com/learn/frontend)
+- **Programming:** Python, JavaScript, C++
+- **Web Development:**  React.js, Node.js, FastAPI, HTML, CSS
+- **AI/ML Tools:** TensorFlow, Scikit-learn, Pandas
+- **Databases:** SQL, MongoDB, JSON
+- **DevOps & Tools:** Docker, Git, GitHub, CI/CD
 
----
+## 📂 Projects
 
-## Fun fact
+### 🔥Researcher Community network Mobile and Web application *(Kotlin, JavaScript, ReactJs, FastAPI,MongoDB)*
+- Develope a researcher community network web app project.
+- **Frontend** - ReactJS,Tailwind CSS.
+- **Backend** - MongoDB, FastAPI
+- **Mobile APP** - Kotlin  
 
-(●'◡'●)
+### 📊 AI Model for Vehicle Sales Prediction *(Machine Learning, Python)*
+- Processed **10M+ data points** to predict vehicle resale times.
+- Applied **supervised learning models** for accurate forecasting.
+- **[GitHub Repository](#)**
 
-> I am passionate about learning new technologies and contributing to the community.
->
-> by sharing knowledge, building impactful projects, and collaborating with others.
+## 🏆 Certifications
 
-## Languages,Frameworks
+- **Docker Fundamentals** *(2024, Coursera)*
+- **Fundamentals of Project Management** *(Google, 2023)*
+- **UI Design & CSS Grid** *(Scrimba, 2024)*
+- **Leadership, Strategy & Innovation** *(United Nations, 2022)*
 
-- HTML
+## 🌍 Languages
 
-- CSS
+- **English:** C1 (Fluent)
+- **Portuguese:** A1 (Basic)
+- **Persian:** Native
 
-- JavaScript
 
-- ReactJs
 
-- Python
 
-- Kotlin
 
-- Markdown
-
-## Linkedin
-
-[want to connect?](www.linkedin.com/in/mahdia-ahmadi-a0635b1a3)
