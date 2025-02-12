@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahdia Ahmadi
 
-📧 <mahdiaahmadi345@gmail.com> | 🔗 LinkedIn
+📧 <mahdiaahmadi345@gmail.com> | 🔗 [LinkedIn](https://www.linkedin.com/in/mahdiaahmadi)
 
 ## 🚀 About Me
 
