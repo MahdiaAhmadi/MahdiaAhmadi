@@ -1,11 +1,13 @@
 # 👋 Hi, I'm Mahdia Ahmadi
 
-📍 Bragança, Portugal | 📧 <mahdiaahmadi345@gmail.com> | 🔗 LinkedIn
+📧 <mahdiaahmadi345@gmail.com> | 🔗 LinkedIn
 
 ## 🚀 About Me
 
-I'm a **Master’s student in Computer Engineering** with a passion for **AI, Data Science, and Full-Stack Development**. 
-I have experience in **React.js, Node.js, MongoDB, Python, and Machine Learning**. I love building AI-driven applications, 
+I'm a **Master’s student in Computer Engineering** with a passion for **AI, Data Science, and Full-Stack Development**.
+additionally,Studying one year Certificate Program in Data Science at **Massachusetts Institute of Technology (MIT)**
+specifically MIT Emerging Talent Program.
+I have experience in **React.js, MongoDB, Python, and Machine Learning**. I love building AI-driven applications,
 data analysis, and contributing to open-source projects.
 
 ## 🛠 Technical Skills
@@ -31,13 +33,15 @@ data analysis, and contributing to open-source projects.
 - Applied **supervised learning models** for accurate forecasting.
 - **GitHub Repository**
 
+### 🔥 Smart Fire & Smoke Detection System *(IoT, C++)*
+
+- Built a **real-time monitoring system** using IoT sensors to detect smoke/fire.
+- Implemented **AI-based early warning alerts** for fire detection.
+- **GitHub Repository**
+
 ## 🏆 Certifications
 
 - **Docker Fundamentals** *(2024, Coursera)*
 - **Fundamentals of Project Management** *(Google, 2023)*
 - **UI Design & CSS Grid** *(Scrimba, 2024)*
 - **Leadership, Strategy & Innovation** *(United Nations, 2022)*
-
-
-
-
