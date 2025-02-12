@@ -48,10 +48,3 @@
 </p>
 
 ---
-
-### 🐍 GitHub Contributions  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mahdiaahmadi/mahdiaahmadi/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/mahdiaahmadi/mahdiaahmadi/output/snake-light.svg" />
-</p>
