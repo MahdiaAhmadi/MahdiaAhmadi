@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahdia Ahmadi
 
-📍 Bragança, Portugal | 📧 mahdiaahmadi345@gmail.com | 🔗 LinkedIn
+📍 Bragança, Portugal | 📧 <mahdiaahmadi345@gmail.com> | 🔗 LinkedIn
 
 ## 🚀 About Me
 
@@ -29,7 +29,7 @@ data analysis, and contributing to open-source projects.
 
 - Processed **10M+ data points** to predict vehicle resale times.
 - Applied **supervised learning models** for accurate forecasting.
-
+- **GitHub Repository**
 
 ## 🏆 Certifications
 
@@ -37,5 +37,7 @@ data analysis, and contributing to open-source projects.
 - **Fundamentals of Project Management** *(Google, 2023)*
 - **UI Design & CSS Grid** *(Scrimba, 2024)*
 - **Leadership, Strategy & Innovation** *(United Nations, 2022)*
+
+
 
 
