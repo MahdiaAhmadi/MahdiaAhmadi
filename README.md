@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Mahdia Ahmadi
 
-📍 Bragança, Portugal | 📧 [mahdiaahmadi345@gmail.com](mailto:mahdiaahmadi345@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mahdiaahmadi)
+📍 Bragança, Portugal | 📧 mahdiaahmadi345@gmail.com | 🔗 LinkedIn
 
 ## 🚀 About Me
 
-I'm a **Master’s student in Computer Engineering** with a passion for **AI, 
-Data Science, and Full-Stack Development**. I have experience in **React.js, 
-Node.js, MongoDB, Python, and Machine Learning**. I love building AI-driven 
-applications, data analysis, and contributing to open-source projects.
+I'm a **Master’s student in Computer Engineering** with a passion for **AI, Data Science, and Full-Stack Development**. 
+I have experience in **React.js, Node.js, MongoDB, Python, and Machine Learning**. I love building AI-driven applications, 
+data analysis, and contributing to open-source projects.
 
 ## 🛠 Technical Skills
 
@@ -30,7 +29,7 @@ applications, data analysis, and contributing to open-source projects.
 
 - Processed **10M+ data points** to predict vehicle resale times.
 - Applied **supervised learning models** for accurate forecasting.
-- **[GitHub Repository](https://github.com/your-repo-link)**
+
 
 ## 🏆 Certifications
 
@@ -39,9 +38,4 @@ applications, data analysis, and contributing to open-source projects.
 - **UI Design & CSS Grid** *(Scrimba, 2024)*
 - **Leadership, Strategy & Innovation** *(United Nations, 2022)*
 
-## 🌍 Languages
-
-- **English:** C1 (Fluent)
-- **Portuguese:** A1 (Basic)
-- **Persian:** Native
 
