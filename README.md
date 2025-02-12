@@ -1,7 +1,7 @@
 
-# 👋 Hi, I'm Mahdia Ahmadi!
+# 👋 Hi, I'm Mahdia Ahmadi
 
-📍 Bragança, Portugal | 📧 mahdiaahmadi345@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/mahdiaahmadi)
+📍 Bragança, Portugal | 📧 [mahdiaahmadi345@gmail.com](mailto:mahdiaahmadi345@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mahdiaahmadi)
 
 ## 🚀 About Me
 
@@ -42,6 +42,4 @@ I'm a **Master’s student in Computer Engineering** with a passion for **AI, Da
 - **English:** C1 (Fluent)
 - **Portuguese:** A1 (Basic)
 - **Persian:** Native
-
-
 
