@@ -88,11 +88,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MahdiaAhmadi&theme=dracula&hide_border=true&fire=DD2727" height="165" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahdiaAhmadi&theme=dracula" height="160" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahdiaAhmadi&theme=dracula" height="160" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahdiaAhmadi&theme=dracula" height="160" alt="Top Languages by Commit" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahdiaAhmadi&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiaAhmadi&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahdiaAhmadi&theme=dracula" alt="Profile Summary" />
 </p>
 
 ---
